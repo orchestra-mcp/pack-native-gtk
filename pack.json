@@ -1,0 +1,14 @@
+{
+    "name": "orchestra-mcp/pack-native-gtk",
+    "description": "GTK4 and Linux desktop plugin development agents",
+    "version": "0.1.0",
+    "type": "pack",
+    "license": "MIT",
+    "stacks": ["c"],
+    "contents": {
+        "skills": [],
+        "agents": ["gtk-plugin"],
+        "hooks": []
+    },
+    "tags": ["gtk", "linux", "gnome", "libadwaita"]
+}
